@@ -1,7 +1,7 @@
-<h1 align="center">👋 Salut, je suis Nelson Kayisiriey</h1>
-<h3 align="center">Développeur Full-Stack | Architecte Logiciel | Enthousiaste en IA</h3>
+<h1>👋 Salut, je suis Nelson Kayisiriey</h1>
+<h3>Développeur Full-Stack | Architecte Logiciel | Enthousiaste en IA</h3>
 
-<p align="center">
+<p>
   <a href="https://www.nkayisi.com"><img src="https://img.shields.io/badge/🌐-nkayisi.com-blue?style=for-the-badge" /></a>
   <a href="mailto:nelsonkayisirirya5@gmail.com"><img src="https://img.shields.io/badge/✉️-Contact%20Email-red?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/nelson-kayisirirya-1173551b9"><img src="https://img.shields.io/badge/LinkedIn-Nelson%20Kayisi-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -13,7 +13,7 @@
 
 - 🌍 Basé à **Kinshasa, RDC**  
 - 💻 **Architecte Logiciel & Développeur Full-Stack** avec expérience en IA, DevOps & SIG  
-- 🔭 J’ai travaillé sur des projets ambitieux dans des entreprises comme **Quantum Vertex, LED Initiatives, Hebel Corporation et AG-ConsulTech**  
+- 🔭 J’ai travaillé sur des projets ambitieux dans des entreprises comme **Quantum Vertex, Hebel Corporation et AG-ConsulTech**  
 - ⚡ Passionné par la création de **solutions innovantes, scalables et sécurisées**  
 - 📖 J’aime apprendre, partager et contribuer à l’open-source  
 
@@ -66,11 +66,6 @@
   - [4G Front](https://4g-front.vercel.app/)  
   - [YCS](https://ycs-website-one.vercel.app/)  
 
-### **LED Initiatives** (2022 – 2023)  
-*Développeur Web | Goma*  
-- Développement d’une plateforme d’investissement participatif (UBUNIFU)  
-- 🔗 [LED Initiatives](https://ledinitiatives.com/) | [UBUNIFU](https://www.ubunifu-app.com/)  
-
 ---
 
 ## 🎓 Formation & Certifications
@@ -83,7 +78,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=nkayisi&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkayisi&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </p>
