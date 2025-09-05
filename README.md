@@ -1,17 +1,13 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120"/>
-
-# 👋 Salut, moi c’est Nelson Kayisi  
-### 🧑‍💻 Full-Stack Developer | 🏗️ Architecte Logiciel | 🤖 Enthousiaste IA  
-
 <p>
-  <a href="https://www.nkayisi.com"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge" /></a>
-  <a href="mailto:nelsonkayisirirya5@gmail.com"><img src="https://img.shields.io/badge/✉️-Email-red?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/nelson-kayisirirya-1173551b9"><img src="https://img.shields.io/badge/LinkedIn-Nelson%20Kayisi-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://github.com/nkayisi/nkayisi/blob/main/banner.png" alt="Hero Banner" />
 </p>
 
-</div>
+<h1>👋 Salut, je suis Nelson Kayisi</h1>
+<h3>Développeur Full-Stack | Architecte Logiciel | Enthousiaste en IA</h3>
+
+<p>
+  🌍 Basé à Kinshasa, RDC | 🚀 Passionné par l’IA, le DevOps et les systèmes scalables
+</p>
 
 ---
 
