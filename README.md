@@ -1,103 +1,101 @@
-# Nelson K. Kayisirirya
+<h1 align="center">👋 Salut, je suis Nelson Kayisiriey</h1>
+<h3 align="center">Développeur Full-Stack | Architecte Logiciel | Enthousiaste en IA</h3>
 
-**Full-stack Developer & Software Architect**  
-Passionate about building modern, scalable web and mobile applications. Skilled in AI integration and delivering elegant user experiences.
-
----
-
-##  À propos de moi
-
-- Architecte logiciel et développeur full-stack basé à Kinshasa, RDC :contentReference[oaicite:0]{index=0}  
-- J'interviens sur la conception et la réalisation de projets technologiques complexes, intégrant développement, IA, DevOps, et systèmes SIG :contentReference[oaicite:1]{index=1}  
-- Motivé par l'innovation, l'open source, et le partage de connaissances avec la communauté tech :contentReference[oaicite:2]{index=2}  
+<p align="center">
+  <a href="https://www.nkayisi.com"><img src="https://img.shields.io/badge/🌐-nkayisi.com-blue?style=for-the-badge" /></a>
+  <a href="mailto:nelsonkayisirirya5@gmail.com"><img src="https://img.shields.io/badge/✉️-Contact%20Email-red?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/nelson-kayisirirya-1173551b9"><img src="https://img.shields.io/badge/LinkedIn-Nelson%20Kayisi-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
-##  Compétences techniques
+## 🚀 À propos de moi
 
-### Langages & Frameworks
-- **Backend** : Python (Django, Django REST Framework, Graphene), Node.js, Odoo :contentReference[oaicite:3]{index=3}  
-- **Frontend** : JavaScript, TypeScript (React.js / Next.js, Vue.js / Nuxt.js) :contentReference[oaicite:4]{index=4}  
+- 🌍 Basé à **Kinshasa, RDC**  
+- 💻 **Architecte Logiciel & Développeur Full-Stack** avec expérience en IA, DevOps & SIG  
+- 🔭 J’ai travaillé sur des projets ambitieux dans des entreprises comme **Quantum Vertex, LED Initiatives, Hebel Corporation et AG-ConsulTech**  
+- ⚡ Passionné par la création de **solutions innovantes, scalables et sécurisées**  
+- 📖 J’aime apprendre, partager et contribuer à l’open-source  
 
-### Bases de données
-- MySQL, PostgreSQL / PostGIS, MongoDB, Redis :contentReference[oaicite:5]{index=5}  
+---
 
-### Architecture & IA
-- Monolithique, microservices, event-driven (EDA), serverless :contentReference[oaicite:6]{index=6}  
-- API : REST, GraphQL ; IA : ML, modèles MLM, TensorFlow, analyse prédictive :contentReference[oaicite:7]{index=7}  
-- Automatisation et agents IA : workflows avec n8n, Model Context Protocol (MCP), intégration d’APIs tierces :contentReference[oaicite:8]{index=8}  
+## 🛠️ Stack & Compétences
 
-### DevOps & Outils
-- Docker, Nginx, CI/CD, Vercel, GitHub Actions :contentReference[oaicite:9]{index=9}  
-- Versioning & collaboration : Git, GitHub, GitLab, Teams, Slack, Discord :contentReference[oaicite:10]{index=10}  
+### 💻 Développement
+- **Backend :** Python (Django, DRF, Graphene), Node.js, Java, Odoo  
+- **Frontend :** React.js / Next.js, Vue.js / Nuxt.js, TypeScript  
 
-### Design & Gestion de projet
+### 🗄️ Bases de données
+- PostgreSQL / PostGIS, MySQL, MongoDB, Redis  
+
+### 🏗️ Architecture & APIs
+- Monolithique | Microservices | Event-Driven | Serverless  
+- REST & GraphQL APIs  
+
+### 🤖 Intelligence Artificielle & Automatisation
+- TensorFlow, modèles ML/MLM, analyse prédictive  
+- Agents IA, automatisation avec **n8n** et **Model Context Protocol (MCP)**  
+
+### ⚙️ DevOps & Outils
+- Docker, Nginx, CI/CD, GitHub Actions, Vercel  
+- Git/GitHub/GitLab, Trello, Notion, Microsoft DevOps  
+
+### 🎨 Design & Gestion
 - UI/UX : Figma, Excalidraw  
-- Méthodologies agiles : SCRUM  
-- Outils de gestion : Microsoft DevOps, Trello, Notion :contentReference[oaicite:11]{index=11}  
-
-### Langues
-- Français (courant), Anglais (niveau C1) :contentReference[oaicite:12]{index=12}  
+- Méthodologies Agiles : SCRUM, Extreme Programming  
 
 ---
 
-##  Formation & Certifications
+## 📂 Expériences récentes
 
-- **Licence (Bac+4) en Génie Informatique**, Faculté des Technologies et Sciences de l’Ingénieur — 2021 :contentReference[oaicite:13]{index=13}  
-- **Certificat Udemy (2024)** : Développement d’applications IA avec React, Next.js, TypeScript, Google et Stripe :contentReference[oaicite:14]{index=14}  
-- **Certificat OpenClassrooms (2023)** : Mise en place d’architectures microservices :contentReference[oaicite:15]{index=15}  
-- **Certification Kubernetes Inc. (2019)** : Google Cloud, Twilio et Slack :contentReference[oaicite:16]{index=16}  
+### **Quantum Vertex SAS** (2023 – Présent)  
+*Développeur Web Full-Stack | Kinshasa*  
+- Conception & déploiement d’architectures scalables  
+- Personnalisation d’ERP (Odoo) et optimisation des bases de données  
+- 🔗 Réalisations :
+  - [Créer Entreprise](https://creer.pme.cd/)  
+  - [Business Plan](https://bp.pme.cd/)  
+  - [F-Pay](https://fpay.erp.cd/)  
+  - [Quiz-Emavision](https://quiz.emavision.cd/)  
 
----
+### **AG ConsulTech** (2023)  
+*Analyste & Développeur Frontend | Remote*  
+- Développement de solutions logicielles et backends robustes  
+- 🔗 Réalisations :
+  - [Yolo](https://yolo-website-xi.vercel.app/)  
+  - [4G Front](https://4g-front.vercel.app/)  
+  - [YCS](https://ycs-website-one.vercel.app/)  
 
-##  Expériences professionnelles
-
-### **Quantum Vertex SA** — Kinshasa, RDC  
-**Full-stack Web Developer** (2023 – Aujourd’hui)  
-- Conception, développement et déploiement d’applications performantes et évolutives (ERP, plateformes de services, etc.)  
-- Personnalisation de modules Odoo, sécurisation des infrastructures, maintien en condition opérationnelle  
-- Projets notables :  
-  - **Créer Entreprise** – Plateforme pour légaliser ou immatriculer une entreprise (`creer.pme.cd`)  
-  - **Business Plan** – Outil de rédaction de plans d’affaires (`bp.pme.cd`)  
-  - **F-Pay** – Plateforme de paiement de factures (`fpay.erp.cd`)  
-  - **Quiz-Emavision** – Solution pour tests et examens professionnels (`quiz.emavision.cd`)  
-  - **Outil de traduction interne** pour plusieurs langues nationales de RDC :contentReference[oaicite:17]{index=17}  
-
-### **AG-ConsulTech** — Télétravail  
-**Analyste & Développeur Front-end** (2023)  
-- Développement de solutions logicielles sur-mesure, gestion de la scalabilité et performances des bases; architecture backend robuste  
-- Réalisations : sites comme `yolo-website-xi.vercel.app`, `4g-front.vercel.app`, `ycs-website-one.vercel.app`, `vpf-site.netlify.app` :contentReference[oaicite:18]{index=18}  
-
-### **Hebel Corporation** — Beni, RDC  
-**Analyste & Développeur Web Full-stack** (2020 – 2022)  
-- Supervision d’équipe en méthode Agile, implémentation de solutions MLM, monitoring DevOps, mises en production continues  
-- Projets emblématiques :  
-  - **Health Winning World** (`hww-invest.com`)  
-  - **Health Success International** (`hsi-company.com`) :contentReference[oaicite:19]{index=19}  
+### **LED Initiatives** (2022 – 2023)  
+*Développeur Web | Goma*  
+- Développement d’une plateforme d’investissement participatif (UBUNIFU)  
+- 🔗 [LED Initiatives](https://ledinitiatives.com/) | [UBUNIFU](https://www.ubunifu-app.com/)  
 
 ---
 
-##  Projets récents
-
-- **Portfolio personnel** — Construit avec Next.js, Tailwind CSS, Shadcn UI :contentReference[oaicite:20]{index=20}  
-- **Health Winning World**, **Volontaires pour la Protection de la Faune et Flore**, **Health Success International** — Sites pour entreprises et associations liées à la santé ou à la conservation :contentReference[oaicite:21]{index=21}  
-
----
-
-##  Contact
-
-- **Site Web** : [nkayisi.com](https://www.nkayisi.com) :contentReference[oaicite:22]{index=22}  
-- **GitHub** : [github.com/nkayisi](https://www.github.com/nkayisi) :contentReference[oaicite:23]{index=23}  
-- **LinkedIn** : [linkedin.com/in/nelson-kayisirirya-1173551b9](https://www.linkedin.com/in/nelson-kayisirirya-1173551b9) :contentReference[oaicite:24]{index=24}  
-- **Email** : nelsonkayisirirya5@gmail.com :contentReference[oaicite:25]{index=25}  
+## 🎓 Formation & Certifications
+- 🎓 **Licence en Génie Informatique** (2021)  
+- 🏅 **Udemy (2024)** – Développement d’applications IA (React, Next.js, TypeScript, Google, Stripe)  
+- 🏅 **OpenClassrooms (2023)** – Architecture microservices  
+- 🏅 **Kubernetes Inc. (2019)** – Google Cloud, Twilio, Slack  
 
 ---
 
-##  Collaborons ensemble !
+## 📊 GitHub Stats
 
-Je suis toujours ouvert à de nouveaux défis techniques et collaborations. N’hésite pas à me contacter pour en discuter !
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nkayisi&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkayisi&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>
 
 ---
 
-© 2025 Nelson K. Kayisi  
+## 🤝 Travaillons ensemble !
 
+- 🌐 [nkayisi.com](https://www.nkayisi.com)  
+- 📩 **Email** : nelsonkayisirirya5@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/nelson-kayisirirya-1173551b9)  
+- 💻 [GitHub](https://github.com/nkayisi)  
+
+---
+✨ *Toujours ouvert à de nouveaux défis techniques et collaborations inspirantes !* ✨
